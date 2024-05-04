@@ -1,1 +1,1 @@
-# MCMC_for_spinmodel
+# MCMC_for_spinmodels
